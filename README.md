@@ -2,11 +2,11 @@
 
 <br>
 
-Clear Chat With Custom Command Or Auto At **config.yml**
+Clear Chat With Command Or Auto At **config.yml**
 
 <br>
 
-Plugin Helps You Prevent Member Advertising, Spam, Swearing ...
+Plugin Helps You Prevent Member, Advertising, Spam, Swearing ...
 
 <br>
 
