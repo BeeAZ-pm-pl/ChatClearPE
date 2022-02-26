@@ -1,0 +1,6 @@
+#false to turn off
+AutoClear: true
+#Second
+TimeClear: 300
+#Message after clear
+ClearChat-Msg: "§a§l☞ Chat has been cleaned"

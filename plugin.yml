@@ -1,0 +1,14 @@
+name: ChatClearPE
+main: BeeAZZ\ChatClearPE\Main
+api: 4.0.0
+version: 0.0.1
+author: BeeAZZ
+description: Clean up chats with just one command or auto
+
+commands:
+ clearchat:
+  description: Clear Chat Command
+  permission: chatclearpe.command
+permissions:
+ chatclearpe.command:
+  default: op
