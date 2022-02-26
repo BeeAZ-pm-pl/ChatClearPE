@@ -2,7 +2,7 @@
 
 <br>
 
-Clear Chat With Command Or Auto At **config.yml**
+Simple plugin to clean chat
 
 <br>
 
