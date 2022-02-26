@@ -13,7 +13,5 @@ class ClearTask extends Task{
   $this->plugin = $plugin;
  }
  public function onRun(): void{
-  if($this->plugin->getConfig()->get("AutoClear") == true);
   $this->plugin->onClear();
  }
-}

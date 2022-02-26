@@ -10,7 +10,6 @@ use BeeAZZ\ChatClearPE\ClearTask;
 use pocketmine\command\{Command, CommandSender};
 
 class Main extends PluginBase implements Listener{
-  private static $resetChat = "\e[H\e[J";
   
  public function onEnable(): void{
    $this->getServer()->getPluginManager()->registerEvents($this, $this);
@@ -21,7 +20,7 @@ class Main extends PluginBase implements Listener{
  }
  
  public function onClear(){
-  $this->getServer()->broadcastmessage(self::$resetChat);
+  $this->getServer()->broadcastmessage("\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n");
   $this->getServer()->broadcastmessage($this->getConfig()->get("ClearChat-Msg"));
  }
  public function onCommand(CommandSender $sender, Command $cmd, string $label, array $args): bool{
