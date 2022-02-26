@@ -2,7 +2,7 @@
 
 <br>
 
-Simple plugin to clean chat
+Clean up chats with command or auto
 
 <br>
 
