@@ -15,3 +15,4 @@ class ClearTask extends Task{
  public function onRun(): void{
   $this->plugin->onClear();
  }
+}
