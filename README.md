@@ -14,7 +14,7 @@ Plugin Helps You Prevent Member, Advertising, Spam, Swearing ...
 
 <br>
 
-Use command **/chatclear** to clear chat
+Use command **/chatclear** to clean chat
 
 <br>
 
