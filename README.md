@@ -2,7 +2,7 @@
 
 <br>
 
-Clean Chat With Custom Command Or Auto At **config.yml**
+Clear Chat With Custom Command Or Auto At **config.yml**
 
 <br>
 
@@ -14,7 +14,7 @@ Plugin Helps You Prevent Member Advertising, Spam, Swearing ...
 
 <br>
 
-Use command **/chatclear** to clear
+Use command **/chatclear** to clear chat
 
 <br>
 
