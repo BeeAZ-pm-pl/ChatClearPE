@@ -34,6 +34,6 @@ class Main extends PluginBase{
    }
    return true;
 }
-return true;
+return false;
 }
 }
