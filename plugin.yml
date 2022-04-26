@@ -8,6 +8,7 @@ description: Clean up chats with just one command or auto
 commands:
  clearchat:
   description: Clear Chat Command
+  aliases: ["cc"]
   permission: chatclearpe.command
 permissions:
  chatclearpe.command:
